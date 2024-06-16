@@ -1,2 +1,2 @@
-xhofe/alist-aria2
-portainer/portainer-ce
+xhofe/alist-aria2:latest
+portainer/portainer-ce:latest
