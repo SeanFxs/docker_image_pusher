@@ -1,3 +1,2 @@
-homeassistant/home-assistant
 xhofe/alist-aria2
 portainer/portainer-ce
