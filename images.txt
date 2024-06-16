@@ -1,2 +1,2 @@
-xhofe/alist-aria2:latest
-portainer/portainer-ce:latest
+xhofe/alist-aria2:latest --platform=linux/arm/v7
+portainer/portainer-ce:latest --platform=linux/arm/v7
