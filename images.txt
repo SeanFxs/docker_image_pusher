@@ -1,3 +1,2 @@
 --platform=linux/arm/v7 xhofe/alist-aria2:latest
 --platform=linux/arm/v7 portainer/portainer-ce:latest
---platform=linux/arm/v7 ghcr.io/home-assistant/home-assistant:stable
